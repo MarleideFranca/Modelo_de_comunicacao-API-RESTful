@@ -37,6 +37,8 @@ cd Modelo_de_comunicacao-API-RESTful
 
 ```bash
 pip install -r requirements.txt
+pip install requests
+pip install flask
 ```
 
 3. Execute a aplicação:
@@ -134,8 +136,6 @@ Flask
 Git
 
 GitHub
-
-Postman (para testes de API)
 
 cURL (para testes de linha de comando)
 
